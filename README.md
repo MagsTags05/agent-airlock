@@ -278,9 +278,3 @@ People stay informed.
 Organizations stay in control.
 
 > **The prompt describes the destination. Agent Airlock clears the safe path.**
-
----
-
-## Documentation
-
-Ideation before implementation lives in [`docs/preflight/`](./docs/preflight/). The current developer folder is [`docs/preflight/debchoudhury/`](./docs/preflight/debchoudhury/). Others add their own folder in their own pull request. The first exercise is [requirement closure](./docs/preflight/README.md#current-exercise-requirement-closure).
